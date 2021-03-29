@@ -1,0 +1,5 @@
+<%-- any content can be specified here e.g.: --%>
+<%@ page pageEncoding="UTF-8" %>
+<div style="background-color:darkblue;padding-top:10px; height: 100px; color:orange; text-align: center;">
+<h1>Tabela PRICE</h1>
+</div>

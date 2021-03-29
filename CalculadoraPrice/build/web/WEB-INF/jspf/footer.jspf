@@ -1,0 +1,7 @@
+<%-- any content can be specified here e.g.: --%>
+<%@ page pageEncoding="UTF-8" %>
+<div style="background-color:darkblue; height: 150px; color:orange; text-align: center;position: fixed; width: 98.7%; bottom: 0;">
+<h4>PRICE Calculator for Fatec</h4>
+<h4>by Rogério de Paula Rebellatto</h4>
+<h4>RA: 1290481923031</h4>
+</div>
